@@ -11,7 +11,7 @@ output:
 
 
 ```{r echo=TRUE, message=F}
-# library(tidyverse)
+library(tidyverse)
 library(dplyr)
 library(ggplot2)
 library(gridExtra)
